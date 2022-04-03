@@ -1,16 +1,4 @@
-# MatFortyTwo
 
-The answer to everything (well... almost) that's Angular Material
-
-## Description
-
-MatFortyTwo is a boilerplate for Angular Material that promotes a design
-with two separate navigation stacks. One at root level and one (with title
-and sidenav) accessible only after having logged in. It also packs a lot
-of perks to help you kickstart your Angular project in a matter of minutes!
-
-Angular CLI Version: 8.0.1 \
-Angular Material Version: 8.0.0
 
 ## Perks
  - **Navigation Flow and guarded access for Pages**
